@@ -101,8 +101,8 @@ With a strong foundation in front-end technologies and a growing skill set in ba
 ## 📫 Contact Me
 
 - 📧 Email: [harshitkashyap2602@gmail.com](mailto:harshitkashyap2602@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/harshitkashyap2602](https://www.linkedin.com/in/harshitkashyap2602/)
-- 🌐 Portfolio: [harshitkashyap.vercel.app](https://harshitkashyap.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/harshitkashyap2602]([https://www.linkedin.com/in/harshitkashyap2602/](https://www.linkedin.com/in/harshit-kashyap-2146252b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 🌐 Portfolio: [harshitkashyap.com]([https://harshitkashyap.vercel.app](https://harshitkashyap2602.github.io/portfolio/index.html))
 
 ---
 
